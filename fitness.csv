@@ -1,0 +1,75 @@
+Serial_No,Date,Day,Weight,Exercise_Split,Diet,Weight (kg),Diet (Calories)
+1,,Monday,70.5 kg,Legs,3003 cal,70.5,3003.0
+2,,Tuesday,70.7 kg,Arms,2910 cal,70.7,2910.0
+3,,Wednesday,69.2 kg,Back,2800 cal,69.2,2800.0
+4,,Thursday,70.4 kg,Chest,3076 cal,70.4,3076.0
+5,,Friday,71.2 kg,Break,,71.2,
+6,,Saturday,71.5 kg,Legs,3129 cal,71.5,3129.0
+7,,Sunday,71.7 kg,Break,3221 cal,71.7,3221.0
+8,,Monday,72.4 kg,Legs,,72.4,
+9,,Tuesday,,,3119 cal,,3119.0
+10,,Wednesday,71.0 kg,Back,3100 cal,71.0,3100.0
+11,,Thursday,,Chest,3010 cal,,3010.0
+12,,Friday,71.2 kg,Break,,71.2,
+13,,Saturday,71.1kg,Legs,2901 cal,71.1,2901.0
+14,,Sunday,72.9 kg,Break,,72.9,
+15,,Monday,72.2 kg,,2453 cal,72.2,2453.0
+16,,Tuesday,72.4 kg,Arms,3011 cal,72.4,3011.0
+17,,Wednesday,72.7 kg,Back,,72.7,
+18,,Thursday,72.1 kg,Chest,3011 cal,72.1,3011.0
+19,,Friday,,break,,,
+20,,Saturday,72.3 kg,Legs,3100 cal,72.3,3100.0
+21,,Sunday,,,,,
+22,,Monday,71.6 kg,Legs,2967 cal,71.6,2967.0
+23,,Tuesday,71.2 kg,Arms,,71.2,
+24,,Wednesday,,Back,2800 cal,,2800.0
+25,,Thursday,72.1 kg,Chest,3000 cal,72.1,3000.0
+26,,Friday,72.4 kg,,,72.4,
+27,,Saturday,,Legs,,,
+28,,Sunday,,Break,2910 cal,,2910.0
+29,,Monday,73.9 kg,Legs,,73.9,
+30,,Tuesday,,,,,
+31,,Wednesday,73.3 kg,Back,,73.3,
+32,,Thursday,,Chest,2756 cal,,2756.0
+33,,Friday,73.1 kg,Break,,73.1,
+34,,Saturday,,Legs,2891 cal,,2891.0
+35,,Sunday,73.4 kg,Break,2981 cal,73.4,2981.0
+36,,Monday,73.2 kg,Legs,3004 cal,73.2,3004.0
+37,,Tuesday,73.3 kg,Arms,3101 cal,73.3,3101.0
+38,,Wednesday,73.2 kg,,2981 cal,73.2,2981.0
+39,,Thursday,72.1 kg,Chest,,72.1,
+40,,Friday,73.2 kg,Break,2781 cal,73.2,2781.0
+41,,Saturday,73.2 kg,Legs,,73.2,
+42,,Sunday,,Break,,,
+43,,Monday,73.7 kg,Legs,2561 cal,73.7,2561.0
+44,,Tuesday,,Arms,,,
+45,,Wednesday,,Back,,,
+46,,Thursday,73.4 kg,,,73.4,
+47,,Friday,,Break,3010 cal,,3010.0
+48,,Saturday,,Legs,3009 cal,,3009.0
+49,,Sunday,74.1 kg,Break,3191 cal,74.1,3191.0
+50,,Monday,,Legs,,,
+51,,Tuesday,74.7  kg,Arms,,74.7,
+52,,Wednesday,,Back,3015 cal,,3015.0
+53,,Thursday,,Chest,2871 cal,,2871.0
+54,,Friday,74.5 kg,Break,2989 cal,74.5,2989.0
+55,,Saturday,74.1 kg,Legs,3210 cal,74.1,3210.0
+56,,Sunday,,Break,3400 cal,,3400.0
+57,,Monday,74.7 kg,Push,3600 cal,74.7,3600.0
+58,,Tuesday,74.1 kg,Pull,3560 cal,74.1,3560.0
+59,,Wednesday,75.4 kg,Shoulder - Leg,3200 cal,75.4,3200.0
+60,,Thursday,74.9 kg,Push,2600 cal,74.9,2600.0
+61,,Friday,75.1 kg,Pull,,75.1,
+62,,Saturday,75.5 kg,Shoulder - Leg,2960 cal,75.5,2960.0
+63,,Sunday,75.6 kg,Rest,,75.6,
+64,,Monday,,Push,4000 cal,,4000.0
+65,,Tuesday,74.7  kg,Pull,3950 cal,74.7,3950.0
+66,,Wednesday,74.7  kg,Shoulder - Leg,3260 cal,74.7,3260.0
+67,,Thursday,75.1 kg,Push,4290 cal,75.1,4290.0
+68,,Friday,,Pull,,,
+69,,Saturday,75.5 kg,Shoulder - Leg,4110 cal,75.5,4110.0
+70,,Sunday,,Rest,2900 cal,,2900.0
+71,,Monday,75.6 kg,Push,3100 cal,75.6,3100.0
+72,,Friday,75.7 kg,Pull,3920 cal,75.7,3920.0
+73,,Saturday,76 kg,Shouder-Leg,4140 cal,76.0,4140.0
+123,,18/01/2002,,push pull,,74.0,3904.0
